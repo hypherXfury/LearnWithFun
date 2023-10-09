@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 8fb27b4e5b2ee704bb41173414006987
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TASTY COOKIES
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 519c078bd5a9ac94d9a71da6aa054327, type: 3}
+  - {fileID: 12800000, guid: 8b315eb12675b8642995c7a8afc86c8b, type: 3}
+  - {fileID: 12800000, guid: fb284708d51d99442b85bd5062cbcd60, type: 3}
+  - {fileID: 12800000, guid: b02f18062ef57474ca048e029d1aa32d, type: 3}
+  - {fileID: 12800000, guid: 165f8d122f7109344bac3ff1f6e3a4d3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

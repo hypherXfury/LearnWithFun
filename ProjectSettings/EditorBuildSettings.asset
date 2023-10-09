@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/MainMenu.unity
+    guid: 4296f8778200ecd4d95f5687b832ba0d
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class1_1.unity
+    guid: 4c20fac947964244cace5a2b62ecfbc7
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class1_2.unity
+    guid: 5aeabdb4a0fad6941a555a1be6725022
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class1_3.unity
+    guid: 13d4bb682cb0b1a429849813abe48c92
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class1_4.unity
+    guid: eff8a3c515b3f8f40b4ea04404b70760
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class1_5.unity
+    guid: 4299ed005e9244747969f58b1296f582
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class2_1.unity
+    guid: 5a54607f49bbe0b499227b1313a36949
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class2_2.unity
+    guid: f0f58eba10c8ce14989d8a91e34fefbc
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class2_3.unity
+    guid: f2120731c167b44499fb4a0263fa8368
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class2_4.unity
+    guid: 02aa19dffe4724240a2476ee30bb3d01
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class2_5.unity
+    guid: 97e73ea66b8e5f04290fe2b6edefec9f
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class3_1.unity
+    guid: 3191fc35fe94dee42bce973222ff7280
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class3_2.unity
+    guid: 9b3cde426d4ae7540992684a3e1b3602
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class3_3.unity
+    guid: 35ec03780036cf147b13db161b9cebc5
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class3_4.unity
+    guid: 17d2f91e010a7594092afb68e449fb8e
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/Class3_5.unity
+    guid: 62ca221f87102db4baa020cdb987a7ab
+  - enabled: 1
+    path: Assets/Medieval_pixel_art_asset_FREE/Scenes/EndMenu.unity
+    guid: 28268a201cea6c541a6c9a96c6369c18
+  m_configObjects: {}
